@@ -14,11 +14,9 @@
 
 ### 💫 About Me
 
-I am a **Full Stack Developer** and a Computer Science undergraduate at **Netaji Subhas University of Technology (NSUT)** specializing in Big Data Analytics. I specialize in building highly scalable, performance-driven web applications using the **MERN (MongoDB, Express, React, Node.js) Stack** alongside cloud infrastructure provisioning and RESTful service engineering.
+I am a **Full Stack Developer** and a Computer Science undergraduate at **Netaji Subhas University of Technology (NSUT)** specializing in Big Data Analytics. I focus on building highly scalable, performance-driven web applications using the **MERN (MongoDB, Express, React, Node.js) Stack** alongside cloud infrastructure provisioning and RESTful service engineering.
 
 * 🎓 **Education**: B.Tech in Computer Science (Big Data Analytics) at **NSUT Delhi** (CGPA: 7.92, Class of 2026).
-* 💼 **Industry Experience**: Full Stack Developer Intern at **Abould**, developing multi-role enterprise platforms, provisioning VPS environments, and optimizing database queries.
-* 🔬 **Research Work**: Ex-Research Intern at **DRDO**, specializing in AI solvability frameworks, with publication submissions to the NIT Delhi IC2SDT 2025 conference.
 * 🛡️ **Technical Focus**: Performance tuning (cutting latency by 40-60%), secure sessions (JWT, HttpOnly cookies), and system architecture.
 
 ---
@@ -62,49 +60,40 @@ I am a **Full Stack Developer** and a Computer Science undergraduate at **Netaji
 
 ---
 
-### 💼 Experience
+## 💼 Recent Production Projects (Abould)
 
-#### **Full Stack Developer Intern** | Abould *(Feb 2026 – Present)*
-* **Enterprise Platform Engineering**: Spearheaded the end-to-end development of a multi-role enterprise platform using MERN, sustaining **100% uptime** with MVC patterns.
-* **Infrastructure & Optimization**: Deployed cloud instances on Hostinger VPS, configured load balancers/SSL, and slashed DB query latency by **40%** through indexed queries and ACID-compliant transaction designs.
-* **Legacy Restructuring**: Built a React/Firebase Admin Portal under tight constraints, reducing PDF invoice compilation time by **50%** and integrating automated Twilio SendGrid alert APIs.
-* **Interviews & Mentoring**: Managed the technical recruitment pipeline, screening 300+ resumes and conducting **75+ technical/code-review interviews**.
+During my tenure as a Full Stack Developer Intern, I owned the development, recovery, and infrastructure deployment for several client-facing and enterprise-level applications.
 
-#### **Research Intern** | Defence Research and Development Organisation (DRDO) *(May 2025 – Jul 2025)*
-* **Algorithmic Development**: Evaluated 100+ research papers on *AI Problem Solvability Assessment*, designing a novel algorithmic framework for problem classification.
-* **Publication**: Authored and submitted research paper to the **2nd IC2SDT 2025 conference** hosted at NIT Delhi.
+### ✈️ DarHPC Holidays — Enterprise Management Platform
+* **Role:** Solo Full-Stack Engineer (End-to-End Delivery)
+* **Stack:** MongoDB, Express.js, React, Node.js, Hostinger VPS, SSL, Load Balancers
+* **Core Execution:**
+  * Designed and deployed a highly secure, multi-role enterprise vacation management ecosystem from scratch using the MERN stack.
+  * Provisioned the cloud infrastructure using Hostinger VPS, load balancers, and SSL certifications to ensure 95% risk mitigation and a sustained 100% platform uptime.
+  * Optimized database layer efficiency, reducing latency by 40% through ACID-compliant transactions, custom query indexing, and backend pagination.
 
----
+### ⚙️ Ironmasters — Corporate Admin Ecosystem
+* **Role:** Full-Stack Rescue Engineer
+* **Stack:** React, Firebase, Twilio SendGrid API
+* **Core Execution:**
+  * Stepped into a business-critical legacy project nearing its hard deadline to architect a fully functional customer, invoice, and quote management Admin Portal.
+  * Restored 100% core system functionality and engineered an asynchronous alerting pipeline utilizing Twilio SendGrid webhooks.
+  * Developed a serverless backend utility that cut automated PDF invoice generation time by 50%.
 
-### 🌟 Project Showcases
-
-#### **Stud.io** — Full Stack E-commerce Website
-* *Tech Stack: TypeScript, React, Redux, Node.js, Express.js, JWT, TailwindCSS*
-* **High Availability**: Architected microservice-like MVC endpoints, integrating custom JWT middleware and role-based route guards.
-* **Search Performance**: Implemented debouncing to reduce server payload by **50%** during autocomplete search queries.
-* **State Optimization**: Restructured app architecture using Redux Toolkit/Context API to reduce component coupling by **40%**.
-
-#### **To-Doing** — Task Management Application
-* *Tech Stack: TypeScript, React, ShadCN, TailwindCSS*
-* **Interactive UI**: Developed a sleek Kanban dashboard featuring a 4-column workflow, boosting employee focus and productivity by **35%**.
-* **Query Optimization**: Designed concurrent CRUD operations on REST API endpoints, cutting latency by **60%**.
-
----
-
-### 🏆 Achievements & Leadership
-
-* 🎮 **NSUT Venatus (Gaming Society)**: Served as **Director**, spearheading regional gaming tournaments and campus events.
-* 🧩 **Indian Game Theory Society (NSUT)**: Served as **President**, organizing theoretical math and strategic competition symposiums.
-* 📸 **Junoon - Photography Society (NSUT)**: Served as **President**, managing creative galleries and workshops.
-* 🏆 **Tech Fest Overload++**: Secured **Runner-Up** position in 2 competitive coding and development events at DU ANDC.
-* 📚 **Academic Honors**: CBSE XII School Topper (97%), Mathematics Subject Topper (100/100, Top 1% CBSE Class X).
+### 🧠 Psychologist-Patient Management System
+* **Role:** Frontend Engineer (Team Collaboration)
+* **Stack:** React, Context API, Tailwind CSS
+* **Core Execution:**
+  * Collaborated within a cross-functional engineering team to build a healthcare coordination web application.
+  * Completely designed and implemented the end-to-end user interface for the psychologist portal.
+  * Built modules for interactive calendar appointment scheduling, group communication threads, and real-time patient chat.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadiyadav&show_icons=true&theme=tokyonight&hide=stars,commits,prs,issues&hide_border=true" alt="Aadi Yadav's GitHub Contributions" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aadiyadav&show_icons=true&theme=tokyonight&hide=stars,commits,prs,issues&hide_rank=true&hide_border=true" alt="Aadi Yadav's GitHub Contributions" height="150px" />
 </p>
 
 ---
