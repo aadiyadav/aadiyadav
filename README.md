@@ -14,10 +14,12 @@
 
 ### 💫 About Me
 
-I am a **Full Stack Developer** and a Computer Science undergraduate at **Netaji Subhas University of Technology (NSUT)** specializing in Big Data Analytics. I focus on building highly scalable, performance-driven web applications using the **MERN (MongoDB, Express, React, Node.js) Stack** alongside cloud infrastructure provisioning and RESTful service engineering.
+I am a passionate **Full Stack Developer** and a Computer Science undergraduate at **Netaji Subhas University of Technology (NSUT)**. Driven by a deep interest in software engineering and system architecture, I focus on building highly scalable, secure, and performance-driven web applications using the **MERN (MongoDB, Express, React, Node.js) Stack**. Beyond coding, I enjoy architecting clean database schemas, optimizing data pipelines, provisioning resilient cloud infrastructure, and conducting technical reviews. I strive to blend front-end visual excellence with robust backend security to deliver seamless end-to-end user experiences.
 
-* 🎓 **Education**: B.Tech in Computer Science (Big Data Analytics) at **NSUT Delhi** (CGPA: 7.92, Class of 2026).
-* 🛡️ **Technical Focus**: Performance tuning (cutting latency by 40-60%), secure sessions (JWT, HttpOnly cookies), and system architecture.
+* 🚀 **Quality & Architecture**: I advocate for clean MVC architecture, type safety, and maintainable state, prioritizing robust code quality and software lifespan over quick hacks.
+* ⚡ **Performance & Scalability**: Experienced in identifying and resolving system bottlenecks, reducing database query latencies and rendering speed by 40-60%.
+* 🛡️ **Security by Design**: Proactively protecting APIs and client portals against common threats using JWT, secure HttpOnly cookies, custom CORS policies, and rate-limiters.
+* 🧠 **Diverse Footprint**: Adept across multiple environments, from evaluating AI classification research at DRDO to provisioning cloud infrastructure (VPS, load balancers) and designing responsive React/Tailwind interfaces.
 
 ---
 
@@ -80,7 +82,7 @@ During my tenure as a Full Stack Developer Intern, I owned the development, reco
   * Restored 100% core system functionality and engineered an asynchronous alerting pipeline utilizing Twilio SendGrid webhooks.
   * Developed a serverless backend utility that cut automated PDF invoice generation time by 50%.
 
-### 🧠 Psychologist-Patient Management System
+### 🧠 Euonia — Psychologist-Patient Management System
 * **Role:** Frontend Engineer (Team Collaboration)
 * **Stack:** React, Context API, Tailwind CSS
 * **Core Execution:**
@@ -93,7 +95,7 @@ During my tenure as a Full Stack Developer Intern, I owned the development, reco
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadiyadav&show_icons=true&theme=tokyonight&hide=stars,commits,prs,issues&hide_rank=true&hide_border=true" alt="Aadi Yadav's GitHub Contributions" height="150px" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=aadiyadav&show_icons=true&theme=tokyonight&hide=stars,commits,prs,issues&hide_rank=true&hide_border=true" alt="Aadi Yadav's GitHub Contributions" height="150px" />
 </p>
 
 ---
