@@ -92,14 +92,6 @@ During my tenure as a Full Stack Developer Intern, I owned the development, reco
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=aadiyadav&show_icons=true&theme=tokyonight&hide=stars,commits,prs,issues&hide_rank=true&hide_border=true" alt="Aadi Yadav's GitHub Contributions" height="150px" />
-</p>
-
----
-
 <p align="center">
   <i>"Clean code always looks like it was written by someone who cares." — Michael Feathers</i>
 </p>
