@@ -7,18 +7,16 @@
 <p align="center">
   <a href="https://linkedin.com/in/aadi-yadav"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:aadiyadav1901@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/aadiyadav"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
 
 ### 💫 About Me
 
-I am a passionate **Full Stack Developer** and a Computer Science undergraduate at **Netaji Subhas University of Technology (NSUT)**. Driven by a deep interest in software engineering and system architecture, I focus on building highly scalable, secure, and performance-driven web applications using the **MERN (MongoDB, Express, React, Node.js) Stack**. Beyond coding, I enjoy architecting clean database schemas, optimizing data pipelines, provisioning resilient cloud infrastructure, and conducting technical reviews. I strive to blend front-end visual excellence with robust backend security to deliver seamless end-to-end user experiences.
+I am a **Full Stack Software Engineer** specializing in the **MERN (MongoDB, Express, React, Node.js) Stack** and cloud infrastructure. Currently pursuing my B.Tech in Computer Science at **Netaji Subhas University of Technology (NSUT)**, Delhi (Class of 2026).
 
-* 🚀 **Quality & Architecture**: I advocate for clean MVC architecture, type safety, and maintainable state, prioritizing robust code quality and software lifespan over quick hacks.
-* ⚡ **Performance & Scalability**: Experienced in identifying and resolving system bottlenecks, reducing database query latencies and rendering speed by 40-60%.
-* 🛡️ **Security by Design**: Proactively protecting APIs and client portals against common threats using JWT, secure HttpOnly cookies, custom CORS policies, and rate-limiters.
-* 🧠 **Diverse Footprint**: Adept across multiple environments, from evaluating AI classification research at DRDO to provisioning cloud infrastructure (VPS, load balancers) and designing responsive React/Tailwind interfaces.
+I focus on end-to-end product delivery, prioritizing clean code architecture, performance tuning, and API security.
 
 ---
 
@@ -67,27 +65,32 @@ During my tenure as a Full Stack Developer Intern, I owned the development, reco
 
 ### ✈️ DarHPC Holidays — Enterprise Management Platform
 * **Role:** Solo Full-Stack Engineer (End-to-End Delivery)
-* **Stack:** MongoDB, Express.js, React, Node.js, Hostinger VPS, SSL, Load Balancers
+* **Stack:** MongoDB • Express.js • React • Node.js • Hostinger VPS • Load Balancers
 * **Core Execution:**
-  * Designed and deployed a highly secure, multi-role enterprise vacation management ecosystem from scratch using the MERN stack.
-  * Provisioned the cloud infrastructure using Hostinger VPS, load balancers, and SSL certifications to ensure 95% risk mitigation and a sustained 100% platform uptime.
-  * Optimized database layer efficiency, reducing latency by 40% through ACID-compliant transactions, custom query indexing, and backend pagination.
+  * Designed and deployed a secure, multi-role vacation management ecosystem from scratch (sustained **100% uptime**).
+  * Optimized database layer, cutting query latency by **40%** through indexed queries and ACID transactions.
 
 ### ⚙️ Ironmasters — Corporate Admin Ecosystem
 * **Role:** Full-Stack Rescue Engineer
-* **Stack:** React, Firebase, Twilio SendGrid API
+* **Stack:** React • Firebase • Twilio SendGrid API
 * **Core Execution:**
-  * Stepped into a business-critical legacy project nearing its hard deadline to architect a fully functional customer, invoice, and quote management Admin Portal.
-  * Restored 100% core system functionality and engineered an asynchronous alerting pipeline utilizing Twilio SendGrid webhooks.
-  * Developed a serverless backend utility that cut automated PDF invoice generation time by 50%.
+  * Restored **100% core system functionality** on a business-critical legacy portal nearing a hard deadline.
+  * Developed a serverless backend utility that cut invoice PDF generation time by **50%** and integrated Twilio SendGrid alerts.
 
 ### 🧠 Euonia — Psychologist-Patient Management System
 * **Role:** Frontend Engineer (Team Collaboration)
-* **Stack:** React, Context API, Tailwind CSS
+* **Stack:** React • Context API • Tailwind CSS
 * **Core Execution:**
-  * Collaborated within a cross-functional engineering team to build a healthcare coordination web application.
-  * Completely designed and implemented the end-to-end user interface for the psychologist portal.
-  * Built modules for interactive calendar appointment scheduling, group communication threads, and real-time patient chat.
+  * Designed and built the complete user interface for the psychologist dashboard portal.
+  * Built interactive calendar appointment scheduling, group communication threads, and real-time patient chat.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=aadiyadav&show_icons=true&theme=tokyonight&hide=stars,commits,prs,issues&hide_rank=true&hide_border=true" alt="Aadi Yadav's GitHub Contributions" height="150px" />
+</p>
 
 ---
 
