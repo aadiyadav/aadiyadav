@@ -61,7 +61,7 @@ I focus on end-to-end product delivery, prioritizing clean code architecture, pe
 
 ---
 
-## 💼 Recent Production Projects (Abould)
+## 💼 Recent Production Projects
 
 During my tenure as a Full Stack Developer Intern, I owned the development, recovery, and infrastructure deployment for several client-facing and enterprise-level applications.
 
