@@ -1,17 +1,15 @@
-# Hi there, I'm Aadi Yadav! 👋
-
 <p align="center">
-  <img src="./banner.png" alt="Aadi Yadav Profile Banner" width="100%" />
+  <img src="./banner.webp" alt="Aadi Yadav Profile Banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00f2fe&center=true&vCenter=true&width=500&lines=Full+Stack+Software+Engineer;MERN+Stack+Developer;Computer+Science+Graduate+%40+NSUT" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00f2fe&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Computer+Science+Graduate+%40+NSUT" alt="Typing Animation" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/aadi-yadav"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:aadiyadav1901@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/aadiyadav"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://aadi-yadav.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
