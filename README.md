@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.webp" alt="Aadi Yadav Profile Banner" width="60%" />
+  <img src="./banner.webp" alt="Aadi Yadav Profile Banner" width="75%" />
 </p>
 
 <p align="center">
